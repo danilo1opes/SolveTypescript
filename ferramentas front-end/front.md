@@ -70,7 +70,7 @@ button.on('success', handleSuccess);
 ## Resumo dos Recursos
 
 - **Live Server**: Desenvolvimento com hot reload
-- **Bundle Generation**: Geração otimizada de arquivos para produção  
+- **Bundle Generation**: Geração otimizada de arquivos para produção
 - **TypeScript Support**: Suporte nativo ao TypeScript
 - **External Libraries**: Fácil integração com bibliotecas NPM
 - **Type Definitions**: Suporte completo a definições de tipos
